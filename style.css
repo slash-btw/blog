@@ -1,0 +1,78 @@
+body{
+	color: #26495c ;
+	background-color: #e5e5dc ;
+	font-family: sans-serif; /*font family permet de choisir la police du texte.*/
+	font-size: 18px ;/*font size permet de changer la taille de la police du texte.*/
+	line-height: 20px ;/*line height permet de modifier l'espace qu'il y a entre 2 lignes de texte*/
+	text-align: center;/*text align permet de changer la position du texte*/
+	border-width: 3px;/*La propriété CSS border-width est une propriété raccourcie qui définit la largeur de la bordure d'un élément.*/
+	border-color: #c4a35a ;
+	margin:20px ;
+	padding: 20px ;
+	border-radius: 15px;
+	box-shadow: 5px 5px 20px black;
+
+}
+
+p{
+	color: #c66b3d ;
+}
+
+h1{
+	font-family: sans-serif;
+	font-variant: small-caps;/*font variant permet de transformer les lettres en petites majuscules*/
+	letter-spacing: 1px ;/*letter spacing permet de changer l'espace quu'il y a entre les lettres*/
+	
+}
+a{
+	color: #c66b3d ;
+	text-decoration: none;/*le text decoration none permet de supprimer la barre de soulignement présente en dessous d'un lien*/
+
+}
+ul{
+	color: black ;
+	text-align: center;
+}
+
+
+li{
+	text-align: center;
+}
+a:hover{/*hover permet de modifier la couleur d'un lien quand on passe dessus*/
+	color: #c4a35a  ;
+}
+div{
+	margin: 25px 100px ;/*marge extérieure*/
+	padding: 20px ;/*marge intérieure*/
+	border-radius: 15px;/*border radius permet d'arrondir les bords*/
+	box-shadow: 5px 5px 20px black ;/*box shadow permet d'ajouter des ombres*/
+}
+iframe{
+	border-radius: 10px ;
+}
+img{
+	border-radius: 10px ;
+}
+.black{
+	color: black ;
+}
+.#c66b3d{
+	color:#c66b3d ; 
+}
+.orange{
+	color: #c66b3d
+}
+
+
+
+
+
+   
+
+
+
+	
+
+
+
+
